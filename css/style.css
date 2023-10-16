@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+/* HEADER */
+
 .background-pattern{
     background-color: rgb(16, 171, 255);
     height: 130px;
@@ -15,4 +17,40 @@
 width: 230px;
 padding-top: 60px;
 padding-left: 15px;
+}
+
+/* MAIN */
+
+.titolo{
+    padding-left: 15px;
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+.sotto-titolo{
+    padding-left: 15px;
+    font-size: 20px;
+}
+
+.gray{
+    color: rgb(162, 162, 162);
+    font-size: 18px;
+}
+
+.gray-2{
+    color: rgb(162, 162, 162);
+    font-size: 13px;
+}
+
+.light-blue{
+    color: rgb(0, 221, 255);
+}
+
+.tim-images{
+    padding-left: 15px;
+    margin-top: 25px;
+}
+
+.title-images{
+    font-size: 13px;
 }
