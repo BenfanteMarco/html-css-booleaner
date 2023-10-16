@@ -3,3 +3,16 @@
     padding: 0px;
     box-sizing: border-box;
 }
+
+.background-pattern{
+    background-color: rgb(16, 171, 255);
+    height: 130px;
+    background-image: url(../img/pattern.png);
+    background-size: 530px;
+}
+
+.logo{
+width: 230px;
+padding-top: 60px;
+padding-left: 15px;
+}
