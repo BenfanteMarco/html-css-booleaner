@@ -54,3 +54,19 @@ padding-left: 15px;
 .title-images{
     font-size: 13px;
 }
+
+.paragrafo{
+    font-size: 15px;
+    padding-left: 15px;
+    margin-top: 25px;
+}
+
+.showed{
+    background-color: yellow;
+}
+
+.lista{
+    padding-left: 30px;
+    margin-top: 25px;
+    font-size: 15;
+}
