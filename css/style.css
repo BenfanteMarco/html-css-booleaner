@@ -21,6 +21,7 @@ padding-left: 15px;
 
 /* MAIN */
 
+/* TITOLO-SOTTOTITOLO */
 .titolo{
     padding-left: 15px;
     margin-top: 20px;
@@ -46,6 +47,7 @@ padding-left: 15px;
     color: rgb(0, 221, 255);
 }
 
+/* IMAGES */
 .tim-images{
     padding-left: 15px;
     margin-top: 25px;
@@ -55,6 +57,7 @@ padding-left: 15px;
     font-size: 13px;
 }
 
+/* PARAGRAFO E LISTA */
 .paragrafo{
     font-size: 15px;
     padding-left: 15px;
@@ -69,4 +72,17 @@ padding-left: 15px;
     padding-left: 30px;
     margin-top: 25px;
     font-size: 15;
+}
+
+/* TABELLA */
+.tabella{
+    padding-left: 15px;
+    margin-top: 25px;
+}
+
+/* PARAGRAFO-2 */
+.paragrafo-2{
+    font-size: 15px;
+    padding-left: 15px;
+    margin-top: 25px;
 }
