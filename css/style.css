@@ -17,6 +17,7 @@
 width: 230px;
 padding-top: 60px;
 padding-left: 15px;
+padding-right: 15px;
 }
 
 /* MAIN */
@@ -26,10 +27,12 @@ padding-left: 15px;
     padding-left: 15px;
     margin-top: 20px;
     font-size: 40px;
+    padding-right: 15px;
 }
 
 .sotto-titolo{
     padding-left: 15px;
+    padding-right: 15px;
     font-size: 20px;
 }
 
@@ -50,6 +53,7 @@ padding-left: 15px;
 /* IMAGES */
 .tim-images{
     padding-left: 15px;
+    padding-right: 15px;
     margin-top: 25px;
 }
 
@@ -61,6 +65,7 @@ padding-left: 15px;
 .paragrafo{
     font-size: 15px;
     padding-left: 15px;
+    padding-right: 15px;
     margin-top: 25px;
 }
 
@@ -70,6 +75,7 @@ padding-left: 15px;
 
 .lista{
     padding-left: 30px;
+    padding-right: 15px;
     margin-top: 25px;
     font-size: 15;
 }
@@ -77,6 +83,7 @@ padding-left: 15px;
 /* TABELLA */
 .tabella{
     padding-left: 15px;
+    padding-right: 15px;
     margin-top: 25px;
 }
 
@@ -84,6 +91,7 @@ padding-left: 15px;
 .paragrafo-2{
     font-size: 15px;
     padding-left: 15px;
+    padding-right: 15px;
     margin-top: 25px;
 }
 
@@ -91,6 +99,7 @@ padding-left: 15px;
 
  .post-titolo{
     padding-left: 15px;
+    padding-right: 15px;
     color: rgb(162, 162, 162);
     font-size: 18px;
     margin-top: 25px;
@@ -102,6 +111,7 @@ padding-left: 15px;
     width: 270px;
     height: 200px;
     margin-left: 15px;
+    padding-right: 15px;
  }
 
  .grafico{
@@ -110,6 +120,7 @@ padding-left: 15px;
     width: 270px;
     height: 200px;
     margin-left: 15px;
+    padding-right: 15px;
     margin-bottom: 20px;
  }
 
